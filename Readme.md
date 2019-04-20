@@ -16,6 +16,11 @@ This **text** will be bold
 
 This **text** will be bold
 
+## Strikethrough (Github)
+Surround words with `~~` for strikethrough
+
+~~I am~~ strikethrough 
+
 ## Header
 Use `#` to make header
 
@@ -177,3 +182,57 @@ Each `·` represents a space. Result:
 >This is first line  
 This is second line
 
+## Code
+### Inline code block
+Using "`" for inline code block
+
+```
+`var foo = true`
+```
+
+`var foo = true`
+
+### Multiple lines
+Using "```" for multiple lines
+
+```
+if(isTrue) {
+	return true
+}
+```
+
+Using "```swift" for syntax highlighting (replace "swift" by other programing languages)
+
+
+```swift
+if(isTrue) {
+	return true
+}
+```
+
+## Task list (github/gilab)
+Using `[ ]` or `[x]` for task list
+
+```
+- [x] Complete item
+- [ ] Incomplete item
+```
+
+- [x] Complete item
+- [ ] Incomplete item
+
+## Tables
+
+Using `|` for collum seprator & `---` for header seperator (the first row)
+
+```
+First Header | Second Header
+------------ | -------------
+Content cell 1 | Content cell 2
+Content row 2 | content row 2
+```
+
+First Header | Second Header
+--- | ---
+Content cell 1 | Content cell 2
+Content row 2 | content row 2
