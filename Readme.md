@@ -1,7 +1,7 @@
 # Markdown Cheatsheet
 
 ## Italic
-Using `_` surrund words and phase to make it _italic_:
+Surround `_` words and phase to make it _italic_:
 ```
 _This word is itallic_
 ```
@@ -17,6 +17,8 @@ This **text** will be bold
 This **text** will be bold
 
 ## Header
+Use `#` to make header
+
 ```
 #Header one
 ##Header two
@@ -33,6 +35,7 @@ This **text** will be bold
 ######Header six
 
 ## Links
+### Inline link
 ```
 [Visit Github!](www.github.com)
 ```
@@ -66,6 +69,8 @@ This **text** will be bold
 [github-logo]: https://github.githubassets.com/images/modules/logos_page/Octocat.png
 
 ##Blockquotes
+Use `>` before paragraph to make a block quote
+
 ```
 >"This is a block qoutes. This is a block qoutes. This is a block qoutes. This is a block qoutes. This is a block qoutes. "
 ```
@@ -74,6 +79,8 @@ This **text** will be bold
 
 ## List
 ### Unordered list
+Use `*` before a line to make unordered list
+
 ```
 * Apple
 * Google
@@ -86,6 +93,8 @@ This **text** will be bold
 * Facebook
 
 ### Ordered list
+Use numbers (1,2,...) to make a ordered list
+
 ```
 1. Go ahead
 2. Turn left
@@ -98,7 +107,9 @@ This **text** will be bold
 3. Turn right
 4. Turn arround
 
-### Multiple depth list
+### Multiple depths list
+Add a space / some spaces to make a list with multiple depths
+
 ```
 * Fruits
  * Apple
@@ -114,8 +125,8 @@ This **text** will be bold
  * Tulip
  * Rose
 
-### Multiple line list
-Add more space before the line to make that paragraph has the same indentation with the list item
+### Multiple lines list
+Add one or more spaces before the line to make that paragraph has the same indentation with the list item
 
 ```
 1. This is a list
@@ -141,22 +152,25 @@ Add more space before the line to make that paragraph has the same indentation w
  
 ## Paragraph
 ### Hard break
+Insert a line break to make a hard break for next paragraph
+
 ```
 This is first line
 
 This is second line
 ```
-This is first line
+>This is first line
 
-This is second line
+>This is second line
 
 ### Add two spaces after new line
-Each `·` represents a space
+Add two spaces at the end of the line to make a new paragraph
 
 ```
 This is first line··
 This is second line
 ```
-This is first line  
+Each `·` represents a space. Result:  
+>This is first line  
 This is second line
 
