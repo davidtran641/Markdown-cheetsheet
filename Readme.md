@@ -48,8 +48,9 @@ Use `#` to make header
 "[my place]: www.github.com"
 
 ```
-[Visit Myplace!][my place]
-[my place]: www.github.com
+[Visit Myplace!][my-place]
+
+[my-place]: www.github.com
 
 ## Images
 ### Inline images
