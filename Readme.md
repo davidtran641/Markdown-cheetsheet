@@ -75,10 +75,10 @@ Use `#` to make header
 Use `>` before paragraph to make a block quote
 
 ```
->"This is a block qoutes. This is a block qoutes. This is a block qoutes. This is a block qoutes. This is a block qoutes. "
+>"This is a block quotes. This is a block quotes. This is a block quotes. This is a block quotes. This is a block quotes. This is a block quotes. This is a block quotes."
 ```
 
->"This is a block qoutes. This is a block qoutes. This is a block qoutes. This is a block qoutes. This is a block qoutes. "
+>"This is a block quotes. This is a block quotes. This is a block quotes. This is a block quotes. This is a block quotes. This is a block quotes. This is a block quotes."
 
 ## List
 ### Unordered list
