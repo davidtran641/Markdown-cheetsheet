@@ -27,6 +27,7 @@ Use `#` to make header
 #####Header five
 ######Header six
 ```
+
 >#Header one
 ##Header two
 ###Header three
@@ -67,6 +68,7 @@ Use `#` to make header
 ```
 
 ![Github logo][github-logo]
+
 [github-logo]: https://github.githubassets.com/images/modules/logos_page/Octocat.png
 
 ##Blockquotes
